@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main_choice_list.unity
+    guid: 88f26107971133546849280c794efbe9
+  - enabled: 1
+    path: Assets/Scenes/3dview.unity
+    guid: 78e72be49727a564dbc09711f85859cb
+  - enabled: 1
+    path: Assets/Scenes/color_the_interior.unity
+    guid: 3eb7e4b74a479a840ba1e32d9837b930
+  - enabled: 1
+    path: Assets/Scenes/furniture.unity
+    guid: b709a004b0d7dc940bd24cb690106924
+  - enabled: 1
+    path: Assets/Scenes/chairscreen.unity
+    guid: 8f0a6f832b001df4d9985d9f1d1bfe17
+  - enabled: 1
+    path: Assets/Scenes/sofascreen.unity
+    guid: 5c6ebd7ed57a8e647a4f1e170c0fc2e7
+  - enabled: 1
+    path: Assets/Scenes/armchairscrene.unity
+    guid: 6c2dd9a3ee95b804da3c1099ef891b87
+  - enabled: 1
+    path: Assets/Scenes/bedscrene.unity
+    guid: ca829459761f8db4180f4428325ce5a1
+  - enabled: 1
+    path: Assets/Scenes/commodorscrene.unity
+    guid: 3dc25c30f0b902146a2a63accbbc5f72
+  - enabled: 1
+    path: Assets/Scenes/dinningscrene.unity
+    guid: 571e872471747ce42b6113709da4e029
+  - enabled: 1
+    path: Assets/Scenes/framescrene.unity
+    guid: 987d45518d2b4294e9750586b80f9ccc
+  - enabled: 1
+    path: Assets/Scenes/shelfscrene.unity
+    guid: e92d5c9ae5acb7d4ca147b6207949e89
+  - enabled: 1
+    path: Assets/Scenes/tablescrene.unity
+    guid: ad5c8804d840b2844b9ca9fba5bec247
+  - enabled: 1
+    path: Assets/Scenes/tvscrene.unity
+    guid: 1e23c0b83ea8c494b9adb4e2cc90f5fc
+  m_configObjects: {}
